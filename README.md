@@ -40,6 +40,7 @@ python main.py
 - **Name:** Syeda Hijab Zahra
 - **Internship:** CodeAlpha Machine Learning Intern
 - **GitHub:** https://github.com/syedahijabzahra313-droid
+- **Linkdin** https://www.linkedin.com/in/hijab-zahra-050487363?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## 🏢 Company
 CodeAlpha — https://www.codealpha.tech
